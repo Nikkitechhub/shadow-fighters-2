@@ -1,0 +1,28 @@
+Game loop using requestAnimationFrame()
+Fighter class
+CPU AI
+Movement
+Jumping
+Blocking
+Light attacks
+Heavy attacks
+Special attack
+Attack cooldowns
+Hit detection
+Damage
+Knockback
+Health
+Hit animations
+Idle animations
+Walk animations
+Jump animations
+Attack animations
+KO state
+Round system
+Timer
+Score
+Start/restart functionality
+Win/lose messages
+Particle effects
+Screen shake
+Simple Web Audio API sound effects
